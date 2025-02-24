@@ -336,7 +336,7 @@ int main(){
             }
         }
         printf("Matrix Transpose: \n\n");
-        
+        printMatrix(row_1,col_1,matrix);
         break;
     }
     default:
