@@ -336,14 +336,7 @@ int main(){
             }
         }
         printf("Matrix Transpose: \n\n");
-        // for (int i = 0; i < row_1; i++)
-        // {
-        //     for (int j = 0; j < col_1; j++)
-        //     {
-        //         printf("%d\t",transpose[i][j]);
-        //     }
-        //     printf("\n");
-        // }
+        
         break;
     }
     default:
