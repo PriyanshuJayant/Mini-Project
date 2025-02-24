@@ -279,14 +279,7 @@ int main(){
             printf("This Matrix is Not Sparse Matrix\n");
         }
         printMatrix(row_1,col_1,Matrix_1);
-        for (int i = 0; i < row_1; i++)
-        {
-            for (int j = 0; j < col_1; j++)
-            {
-                printf("%d\t",Matrix_1[i][j]);
-            }
-            printf("\n");
-        }
+        
         break;
     }
     case(5):{
